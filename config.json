@@ -1,0 +1,8 @@
+{
+    "name": "apiservice-service",
+    "version": "1.0.86",
+    "private": false,
+    "environment": "production",
+    "build_id": 767,
+    "allow_public_access": true
+}
